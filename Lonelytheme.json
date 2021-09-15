@@ -1,7 +1,10 @@
 {
     "manifest": {
         "author": "zeus.#0008",
-        "name": "Isn't it lovely, all alone"
+        "name": "Isn't it lovely, all alone",
+         "version": "1.0.1",
+        "license": "",
+        "uptader"; ""
     },
     "background": {
         "url": "https:\/\/media.discordapp.net\/attachments\/881984631547789362\/886201436092923924\/Purple-Aesthetic-Phone-Wallpapers-Top-Free-Purple-_1.jpg",
